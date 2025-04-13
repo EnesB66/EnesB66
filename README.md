@@ -23,7 +23,6 @@ Project focused on building security awareness through logs.
 ## 🧪 Experience
 - 📌 3-month internship as a Pentester (contract-based)
 - ✅ Tested multiple machines and reported vulnerabilities
-- 💡 Practiced on platforms like Hack The Box & TryHackMe
 
 ## 🎯 Goals
 - Become a skilled SOC Analyst or Junior Pentester  
