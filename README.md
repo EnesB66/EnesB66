@@ -12,14 +12,6 @@
 - Python & Bash scripting for automation
 - Capture the Flag (CTF) challenges & labs
 
-## 🔎 Current Project
-### **Linux Log Analyzer**  
-A custom tool to analyze `auth.log` and detect:
-- Brute-force login attempts  
-- Suspicious SSH activity  
-- Privilege escalation attempts  
-Project focused on building security awareness through logs.
-
 ## 🧪 Experience
 - 📌 3-month internship as a Pentester (contract-based)
 - ✅ Tested multiple machines and reported vulnerabilities
